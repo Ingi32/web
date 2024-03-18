@@ -303,7 +303,8 @@ a[title="Flaticon"]:hover{
 }
 
 .thumbnail{
-    width: 300px;
+    width: 500px;
+    height: 400px;
     margin-right: 20px;
 }
 
